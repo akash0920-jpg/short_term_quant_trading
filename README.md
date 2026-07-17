@@ -1,8 +1,8 @@
-# Art of Compounding - Quantitative Trading Algorithm
+# Quantitative Trading Algorithm
 
 ## 1. Description
 
-This project was developed for the "Art of Compounding" Finance Club competition. The primary objective is to build a profitable, automated quantitative trading algorithm utilizing 3 months of historical daily stock prices (Open, High, Low, Close) across 10 different stocks. 
+The primary objective is to build a profitable, automated quantitative trading algorithm utilizing 3 months of historical daily stock prices (Open, High, Low, Close) across 10 different stocks. 
 
 <<<<<<< HEAD
 **The Problem Statement & Constraints:**
