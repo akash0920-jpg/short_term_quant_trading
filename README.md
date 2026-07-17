@@ -55,8 +55,3 @@ The actual trading program operates as a daily State Machine with strict risk ma
 
 **Final Results:** This highly disciplined architecture achieved a generalized baseline accuracy of 53.12%, translating to an exploitable mathematical edge that generated a **+6.77% Total Portfolio Return** across 144 trades on unseen test data.
 =======
-# NOTE: 
-# 1. SOME OF THE LINES IN THE SCRIPTS ARE COMMENTED OUT AND ARE EXPECTED TO BE SET ACCORDIG TO THE END USER , SO PLEASE READ THE COMMENTS CAREFULLY THEY CONATIN INSTRUCTIONS 
-# 2. THE STOCK PRICES OF ALL THE STOCKS MUST BE IN THE SAME FOLDER LIKE THE ONE PROVIDED
-# 3. MAIN EXECUTABLE IS trade_exe.py , PLEASE SELECT THE TEST FILE LOCATION YOURSELF.
->>>>>>> af738b4fa563108bfa811971317b411fe19c97c3
