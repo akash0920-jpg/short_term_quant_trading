@@ -4,6 +4,7 @@
 
 This project was developed for the "Art of Compounding" Finance Club competition. The primary objective is to build a profitable, automated quantitative trading algorithm utilizing 3 months of historical daily stock prices (Open, High, Low, Close) across 10 different stocks. 
 
+<<<<<<< HEAD
 **The Problem Statement & Constraints:**
 * **Strict Maximum Holding Period:** Any open position must be squared off within a maximum of 3 days. 
 * **The Goal:** Develop a Python program that ingests hidden daily market data, executes quantitative trading strategies without look-ahead bias, and outputs a daily position log detailing capital allocation and returns.
@@ -53,3 +54,9 @@ The actual trading program operates as a daily State Machine with strict risk ma
 * **Capital Protection:** The system utilizes a percentage-based allocation model, deploying exactly 10% of the total available portfolio per trade. This captures fractional gains and prevents the mathematical "death spiral" of depleting capital during drawdowns.
 
 **Final Results:** This highly disciplined architecture achieved a generalized baseline accuracy of 53.12%, translating to an exploitable mathematical edge that generated a **+6.77% Total Portfolio Return** across 144 trades on unseen test data.
+=======
+# NOTE: 
+# 1. SOME OF THE LINES IN THE SCRIPTS ARE COMMENTED OUT AND ARE EXPECTED TO BE SET ACCORDIG TO THE END USER , SO PLEASE READ THE COMMENTS CAREFULLY THEY CONATIN INSTRUCTIONS 
+# 2. THE STOCK PRICES OF ALL THE STOCKS MUST BE IN THE SAME FOLDER LIKE THE ONE PROVIDED
+# 3. MAIN EXECUTABLE IS trade_exe.py , PLEASE SELECT THE TEST FILE LOCATION YOURSELF.
+>>>>>>> af738b4fa563108bfa811971317b411fe19c97c3
